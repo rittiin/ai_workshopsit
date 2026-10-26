@@ -19,6 +19,8 @@ Lab สำหรับ Workshop 40 นาที: เชื่อมโยงข�
 
 ทุกไฟล์เชื่อมกันด้วย `pro_code` (รหัสจังหวัด 2 หลัก)
 
+โฟลเดอร์ `fonts/` มีฟอนต์ไทย Sarabun สำหรับแผนที่แบบรูปภาพ (PNG พื้นขาว / พื้นโปร่งใส)
+
 ## ลำดับใน Lab (40 นาที)
 | นาที | ส่วน |
 |---|---|
@@ -31,3 +33,4 @@ Lab สำหรับ Workshop 40 นาที: เชื่อมโยงข�
 ## แหล่งข้อมูล
 - ขอบเขตจังหวัด: [OpenGISData-Thailand](https://github.com/chingchai/OpenGISData-Thailand) โดย chingchai (CC BY 4.0) ลดความละเอียดเพื่อให้โหลดเร็ว
 - ข้อมูลผู้ป่วยและประชากร: ข้อมูลสมมติเพื่อการสอน **ไม่ใช่สถานการณ์จริง**
+- ฟอนต์: [Sarabun](https://github.com/cadsondemak/Sarabun) โดย Cadson Demak (SIL Open Font License 1.1, ดู `fonts/OFL.txt`)
